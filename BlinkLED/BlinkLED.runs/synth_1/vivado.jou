@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Apr 22 22:50:01 2020
+# Process ID: 6732
+# Current directory: E:/Repository/MyIPcoreLib/FPGA-IPcore-Library/BlinkLED/BlinkLED.runs/synth_1
+# Command line: vivado.exe -log BlinkLED.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source BlinkLED.tcl
+# Log file: E:/Repository/MyIPcoreLib/FPGA-IPcore-Library/BlinkLED/BlinkLED.runs/synth_1/BlinkLED.vds
+# Journal file: E:/Repository/MyIPcoreLib/FPGA-IPcore-Library/BlinkLED/BlinkLED.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source BlinkLED.tcl -notrace
