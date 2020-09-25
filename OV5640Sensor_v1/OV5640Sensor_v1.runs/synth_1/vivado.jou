@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Sep 25 20:48:01 2020
+# Process ID: 16652
+# Current directory: E:/Repository/MyIPcoreLib/FPGA-IPcore-Library/OV5640Sensor_v1/OV5640Sensor_v1.runs/synth_1
+# Command line: vivado.exe -log OV5640_Sensor.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source OV5640_Sensor.tcl
+# Log file: E:/Repository/MyIPcoreLib/FPGA-IPcore-Library/OV5640Sensor_v1/OV5640Sensor_v1.runs/synth_1/OV5640_Sensor.vds
+# Journal file: E:/Repository/MyIPcoreLib/FPGA-IPcore-Library/OV5640Sensor_v1/OV5640Sensor_v1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source OV5640_Sensor.tcl -notrace

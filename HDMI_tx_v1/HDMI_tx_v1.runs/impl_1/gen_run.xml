@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg400-2" LaunchTime="1601040788">
+  <File Type="BITSTR-BMM" Name="HDMI_TX_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="HDMI_TX_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="HDMI_TX_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="HDMI_TX_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="HDMI_TX.tcl"/>
+  <File Type="OPT-TIMING" Name="HDMI_TX_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="HDMI_TX_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="HDMI_TX_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="HDMI_TX_reports.tcl"/>
+  <File Type="OPT-DRC" Name="HDMI_TX_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="HDMI_TX.hwdef"/>
+  <File Type="PWROPT-DCP" Name="HDMI_TX_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="HDMI_TX_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="HDMI_TX_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="HDMI_TX_placed.dcp"/>
+  <File Type="PLACE-IO" Name="HDMI_TX_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="HDMI_TX_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="HDMI_TX_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="HDMI_TX_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="HDMI_TX_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="HDMI_TX_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="HDMI_TX_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="HDMI_TX.bgn"/>
+  <File Type="PLACE-TIMING" Name="HDMI_TX_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="HDMI_TX_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="HDMI_TX.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="HDMI_TX_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="HDMI_TX_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="HDMI_TX_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="HDMI_TX.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="HDMI_TX_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="HDMI_TX_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="HDMI_TX_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="HDMI_TX_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="HDMI_TX_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="HDMI_TX_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="HDMI_TX.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="HDMI_TX_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="HDMI_TX.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="HDMI_TX_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="HDMI_TX_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="HDMI_TX.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="HDMI_TX_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="HDMI_TX_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="HDMI_TX_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="HDMI_TX_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="HDMI_TX_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="HDMI_TX_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="HDMI_TX_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="HDMI_TX_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="HDMI_TX_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="HDMI_TX_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="HDMI_TX_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="HDMI_TX_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="HDMI_TX_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="HDMI_TX_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="HDMI_TX_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="HDMI_TX_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="HDMI_TX_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="HDMI_TX_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="HDMI_TX_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="HDMI_TX.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="HDMI_TX_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="HDMI_TX.rbt"/>
+  <File Type="BITSTR-NKY" Name="HDMI_TX.nky"/>
+  <File Type="BG-DRC" Name="HDMI_TX.drc"/>
+  <File Type="RDI-RDI" Name="HDMI_TX.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="C:/Users/LiuYang_Laptop/Desktop/S06_CH01_AXI_VDMA_MT9V034/Miz_ip_lib/HDMI_FPGA_ML/IPSRC/DVITransmitter.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="C:/Users/LiuYang_Laptop/Desktop/S06_CH01_AXI_VDMA_MT9V034/Miz_ip_lib/HDMI_FPGA_ML/IPSRC/SerializerN_1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="C:/Users/LiuYang_Laptop/Desktop/S06_CH01_AXI_VDMA_MT9V034/Miz_ip_lib/HDMI_FPGA_ML/IPSRC/TMDSEncoder.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="C:/Users/LiuYang_Laptop/Desktop/S06_CH01_AXI_VDMA_MT9V034/Miz_ip_lib/HDMI_FPGA_ML/IPSRC/hdmi_tx.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="HDMI_TX"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
