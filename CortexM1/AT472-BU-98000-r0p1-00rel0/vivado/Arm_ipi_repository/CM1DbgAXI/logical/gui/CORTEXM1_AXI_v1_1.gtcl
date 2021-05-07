@@ -1,2 +1,0 @@
-# This file is automatically written.  Do not modify.
-proc gen_USERPARAMETER_SMALL_DEBUG_ENABLEMENT {DEBUG_SEL } {expr $DEBUG_SEL != 3}
